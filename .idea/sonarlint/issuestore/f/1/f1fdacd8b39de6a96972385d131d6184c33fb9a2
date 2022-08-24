@@ -1,0 +1,8 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¡·“Óøÿÿÿÿ
+h
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ùŽù“
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(Çµ©êýÿÿÿÿ8Åðù¸§0
+P	java:S125."<This block of commented-out lines of code should be removed.(Æ±ÛW
+M
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äð18Óû¹§0

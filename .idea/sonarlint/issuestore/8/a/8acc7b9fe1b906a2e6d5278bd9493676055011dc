@@ -1,0 +1,10 @@
+
+N
+java:S1854"8Remove this useless assignment to local variable "emp2".(í‘éÅ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«†Á‰
+N	java:S106"9Replace this use of System.out or System.err by a logger.(×¾µ
+?
+java:S1481")Remove this unused "emp2" local variable.(í‘éÅ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ç²¯±
+[
+java:S1764"ECorrect one of the identical sub-expressions on both sides of equals.(ç²¯±

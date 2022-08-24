@@ -1,0 +1,10 @@
+
+t
+java:S1192 "^Define a constant instead of duplicating this literal "Can attend all appointments: " 3 times.(ŸÎê
+7
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ
+H
+java:S1135"2Complete the task associated to this TODO comment.(µÍĞÑ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(ŸÎê
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(ŸÎê
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ŸÎê

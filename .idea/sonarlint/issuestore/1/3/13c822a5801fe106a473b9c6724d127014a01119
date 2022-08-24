@@ -1,0 +1,24 @@
+
+t
+java:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").(Û°ŽÎýÿÿÿÿ
+t
+java:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔæÈ¿ùÿÿÿÿ
+t
+java:S2293R"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔæÈ¿ùÿÿÿÿ
+‚
+java:S1192D"mDefine a constant instead of duplicating this literal "Intervals after inserting the new interval: " 3 times.(ÎŽ•G
+7
+java:S1116"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+H
+java:S1135"2Complete the task associated to this TODO comment.(µÍÐÑ
+H
+java:S1135+"2Complete the task associated to this TODO comment.(µÍÐÑ
+M	java:S106D"9Replace this use of System.out or System.err by a logger.(ÎŽ•G
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(¸âÉç
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+M	java:S106M"9Replace this use of System.out or System.err by a logger.(ÎŽ•G
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(¸âÉç
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+M	java:S106U"9Replace this use of System.out or System.err by a logger.(ÎŽ•G
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(¸âÉç
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ

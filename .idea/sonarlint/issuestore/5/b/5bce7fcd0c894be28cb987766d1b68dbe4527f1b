@@ -1,0 +1,21 @@
+
+t
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+M	java:S106	"9Replace this use of System.out or System.err by a logger.(ö™İ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(–¿†µ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Á¦×à
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ï©ïÿüÿÿÿÿ
+Q
+java:S1854"6Remove this useless assignment to local variable "m2".(¨œµ«øÿÿÿÿ
+L
+java:S1854"6Remove this useless assignment to local variable "m1".(Ø‰á
+K
+java:S1854"6Remove this useless assignment to local variable "mm".(¬»ö
+<
+java:S1481"'Remove this unused "mm" local variable.(¬»ö
+=
+java:S1481"'Remove this unused "m1" local variable.(Ø‰á
+B
+java:S1481"'Remove this unused "m2" local variable.(¨œµ«øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(—¬Êûÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÅËİûÿÿÿÿ8µé–™0

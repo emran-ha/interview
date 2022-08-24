@@ -1,0 +1,12 @@
+
+w
+java:S11927"\Define a constant instead of duplicating this literal "Total knapsack profit ---> " 3 times.(Í³ÚÓúÿÿÿÿ
+E
+java:S11975"*Move the array designators [] to the type.(şŞùÿÿÿÿ
+@
+java:S11976"*Move the array designators [] to the type.(øÁí
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(Í³ÚÓúÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(Üèàùøÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(ÄóÊïúÿÿÿÿ
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ƒìæ¡¢0

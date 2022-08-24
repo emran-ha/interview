@@ -1,0 +1,9 @@
+
+L
+java:S1854"7Remove this useless assignment to local variable "len".(ãÖ¹/
+O
+java:S1854"9Remove this useless assignment to local variable "sChar".(éÔÜî
+@
+java:S1481"*Remove this unused "sChar" local variable.(éÔÜî
+=
+java:S1481"(Remove this unused "len" local variable.(ãÖ¹/

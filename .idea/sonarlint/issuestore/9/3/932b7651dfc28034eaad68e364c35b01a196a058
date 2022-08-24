@@ -1,0 +1,9 @@
+
+;
+java:S1700"Rename field "innerClass"(ÅŞÓøÿÿÿÿ8ù¶„–š0
+t
+java:S1450"RRemove the "age" field and declare it as a local variable in the relevant methods.(Æ†´¦şÿÿÿÿ8·ŒÕ–š0
+p
+java:S1450"SRemove the "name" field and declare it as a local variable in the relevant methods.(Ë¥¼8¸ŒÕ–š0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÃˆêÒøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‹Ş¡üÿÿÿÿ

@@ -1,0 +1,48 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¼Ì¶Ş
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ
+E
+java:S1611"/Remove the parentheses around the "x" parameter(‚ğıÅ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+G
+java:S1611"1Remove the parentheses around the "emp" parameter(ö£ä¿
+N	java:S106"9Replace this use of System.out or System.err by a logger.(óæ‹
+v
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(ñàŞÅşÿÿÿÿ
+J
+java:S1611"/Remove the parentheses around the "x" parameter(ñàŞÅşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(æ°ºı
+E
+java:S1611 "/Remove the parentheses around the "x" parameter(ğÎŒŸ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ƒ×Ğ‡ÿÿÿÿÿ
+J
+java:S1611("/Remove the parentheses around the "x" parameter(ï§‡şÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(¼¡¨ò
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(°è­‡üÿÿÿÿ
+[
+java:S16128"@Replace this lambda with method reference 'Employee::getSalary'.(µÀıÓøÿÿÿÿ
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(¿ö›
+S	java:S106="9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(„á´²
+M	java:S106B"9Replace this use of System.out or System.err by a logger.(•·Êz
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(¢àÛÕúÿÿÿÿ
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(‡×²
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(ßšÕùÿÿÿÿ
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(Á‘ÙÔ
+Y
+java:S1612S">Replace this lambda with method reference 'Employee::getName'.(Ÿı—ƒûÿÿÿÿ
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(´¿‰
+6
+java:S2129U" Remove this "String" constructor(ü­©¬
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(­ÉŠÇ
+V
+java:S1612Z"@Replace this lambda with method reference 'System.out::println'.(²ãæ
+N	java:S106Z"9Replace this use of System.out or System.err by a logger.(²ãæ
+S	java:S106c"9Replace this use of System.out or System.err by a logger.(Ê½§›ûÿÿÿÿ
+h
+java:S6204g"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+T
+java:S1612f"?Replace this lambda with method reference 'Collection::stream'.(ª÷˜
+N	java:S106h"9Replace this use of System.out or System.err by a logger.(ˆç°Ú
+N
+java:S1128"9Remove this unused import 'javax.swing.text.html.Option'.(¼Òì:
