@@ -41,8 +41,6 @@ K
 src/recursive/GridPath.java,2/3/230c5fee1736cf3a6dae8531a60b2850706a3a5c
 L
 src/recursive/Factorial.java,0/6/0663373b2219ce9658a8269634625abd5cc96966
-T
-$src/problemsolving/RotateMatrix.java,7/a/7ac0f3496f25379a57ba23fadf7c74f3757b59cb
 E
 src/sorting/Test.java,3/4/34cf697ce28822dbf59d0cb9c112e96c243684c4
 S
