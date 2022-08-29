@@ -24,8 +24,21 @@ class ReverseStringWords {
         return stringBuilder.toString();
     }
 
+    static String revWords(String s) {
+        String[] arr = s.split("\\s+");
+        List<String> list = Arrays.stream(arr).collect(Collectors.toList());
+        Collections.reverse(list);
+        StringBuilder stringBuilder = new StringBuilder();
+        for (String st : list) {
+            stringBuilder.append(st);
+            stringBuilder.append(" ");
+        }
+        stringBuilder.deleteCharAt(stringBuilder.length() - 1);
+        return stringBuilder.toString();
+    }
+
     public static void main(String[] args) {
-        String s = reverseWords("a good   example");
+        String s = revWords("a good   example   ");
         System.out.println(s);
     }
 }

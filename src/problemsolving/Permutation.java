@@ -7,14 +7,14 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 class Permutation {
-    private void backTrack(List<List<Integer>> result, List<Integer> temp, int first, int n) {
-        if (first == n) {
+    private void backTrack(List<List<Integer>> result, List<Integer> temp, int index, int n) {
+        if (index == n) {
             result.add(new ArrayList<>(temp));
         }
-        for (int i = first; i < n; i++) {
-            Collections.swap(temp, first, i);
-            backTrack(result, temp, first + 1, n);
-            Collections.swap(temp, first, i);
+        for (int i = index; i < n; i++) {
+            Collections.swap(temp, index, i);
+            backTrack(result, temp, index + 1, n);
+            Collections.swap(temp, index, i);
         }
     }
     List<List<Integer>> permutation(int[] nums) {

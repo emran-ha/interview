@@ -113,10 +113,6 @@ P
  src/asd/command/Application.java,2/4/24d28767d66e769aebd505432c1730b5a16734d3
 O
 src/asd/command/PopCommand.java,2/2/2298ea0fad978058ceb53f4df8badc67511dd840
-U
-%src/problemsolving/KForceInsertK.java,a/8/a851a2b825d7f8d3ba13a09091395dfb8fd8c121
-V
-&src/problemsolving/Chararrayinput.java,5/c/5cb120235983cb3ce35d1021319229b9e1d6f48f
 g
 7src/grokcodepattern/twopointers/SortedArraySquares.java,a/3/a3656cc8c7740cf7a0a0094bf2e31c559ff73aa0
 i
@@ -155,8 +151,6 @@ d
 4src/problemsolving/infotech/MissingAndRepeating.java,f/3/f3dcceb7e47fb74a89fb85f668cef199bad167a0
 b
 2src/problemsolving/infotech/InsertToSortedArr.java,1/4/142d2f4fa8745fa5557aad5e148544fc11d26b0c
-W
-'src/problemsolving/RemovingProblem.java,6/b/6b3069842611a17d4e61be84ae28491b8755ee01
 T
 $src/algoeducative/isHappyNumber.java,6/9/6971c64a267d466d20a09b39604e699e370e306c
 T
@@ -165,10 +159,6 @@ $src/algoeducative/TrainPlatform.java,f/f/ff36abe81c60dbfa5f1d4f2fa84778152e750
 ,src/problemsolving/infotech/Permutation.java,d/0/d0db3691346a3dec4e231c70154e9941796226c4
 a
 1src/problemsolving/infotech/ShortestSubArray.java,1/4/146f547581d87bc896fadd1fff1daf091b301874
-V
-&src/problemsolving/LemonadeChange.java,3/6/3616585b1c4177b6f59c27282582390f4c54db55
-W
-'src/problemsolving/LongestSubArray.java,1/9/19d0b78da8d622654f2be751e178c3e7ab1a2657
 Q
 !src/problemsolving/SwapVowel.java,9/6/96d257f2218409217856f8d7f0068db6a434c2a8
 R
@@ -179,8 +169,6 @@ V
 &src/problemsolving/apple/ThreeSum.java,b/3/b30555c19bf5b701016367433f71fb804451365f
 U
 %src/problemsolving/apple/FourSum.java,0/5/05645693520aa0eca613b8fa741569bb4647e51d
-T
-$src/problemsolving/MilitaryTime.java,3/9/396576e51c03f76fd05d2d7ce3d511f7a67c4d7a
 L
 src/comparator/Employee.java,6/f/6f4e6c7bd6ae06c33bc54a0bb3695fbc6876a472
 H
