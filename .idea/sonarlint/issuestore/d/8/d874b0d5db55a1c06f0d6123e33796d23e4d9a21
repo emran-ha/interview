@@ -1,9 +1,0 @@
-
->
-java:S1604"(Make this anonymous inner class a lambda( œÜÿ
-N	java:S106$"9Replace this use of System.out or System.err by a logger.(¢Î€’
-N	java:S106&"9Replace this use of System.out or System.err by a logger.(¢Î€’
-N	java:S106-"9Replace this use of System.out or System.err by a logger.(ã½²
-N	java:S106/"9Replace this use of System.out or System.err by a logger.(ã½²
-]
-java:S1128"@Remove this unused import 'javax.swing.text.html.parser.Entity'.(Û‡Ğ‘8üšÌÂŸ0

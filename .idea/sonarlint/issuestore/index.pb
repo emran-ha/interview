@@ -39,8 +39,6 @@ N
 src/sorting/SelectionSort.java,6/9/6931c7132bd8e9af1e950d999ef066b43c2c32c2
 K
 src/recursive/GridPath.java,2/3/230c5fee1736cf3a6dae8531a60b2850706a3a5c
-L
-src/recursive/Factorial.java,0/6/0663373b2219ce9658a8269634625abd5cc96966
 E
 src/sorting/Test.java,3/4/34cf697ce28822dbf59d0cb9c112e96c243684c4
 S
@@ -77,14 +75,6 @@ H
 src/basic/Singleton.java,6/4/649ff25d1387f9b3b9b4fdf223075d72f92206f4
 C
 src/basic/Main.java,5/b/5bce7fcd0c894be28cb987766d1b68dbe4527f1b
-\
-,src/problemsolving/TwoDArrayRestructure.java,d/b/db7b2d39ac081ee8cc0b6899f8ee846785968c3c
-V
-&src/problemsolving/TwoGreatNumber.java,9/f/9fb6f7432eb5fc08fb31d77b4661481c91cdafd9
-\
-,src/problemsolving/RotateDiagonalMatrix.java,f/c/fcd3a09e2731bb233628b1e340f8cba7c25a1979
-R
-"src/problemsolving/SortingMap.java,d/8/d874b0d5db55a1c06f0d6123e33796d23e4d9a21
 V
 &src/algoeducative/SearchInRotated.java,f/8/f89dd0d06bb6e318dcf2897b08e8607e536c98eb
 G
@@ -159,8 +149,6 @@ $src/algoeducative/TrainPlatform.java,f/f/ff36abe81c60dbfa5f1d4f2fa84778152e750
 ,src/problemsolving/infotech/Permutation.java,d/0/d0db3691346a3dec4e231c70154e9941796226c4
 a
 1src/problemsolving/infotech/ShortestSubArray.java,1/4/146f547581d87bc896fadd1fff1daf091b301874
-Q
-!src/problemsolving/SwapVowel.java,9/6/96d257f2218409217856f8d7f0068db6a434c2a8
 R
 "src/comparator/NameComparator.java,3/6/36caa688aa2f8eee51aaf0fe791e9ddbff19db6e
 O
@@ -173,8 +161,6 @@ L
 src/comparator/Employee.java,6/f/6f4e6c7bd6ae06c33bc54a0bb3695fbc6876a472
 H
 src/comparator/Main.java,0/0/003e3b3082571de703491ce9d3209dfa90139f23
-]
--src/problemsolving/infotech/AnagramGroup.java,c/2/c23903c2f7e4ce720b602cccc90112485465ab7a
 Z
 *src/problemsolving/apple/SpiralMatrix.java,c/9/c9b5230232e4a089d02a239973734fcb27392765
 ]

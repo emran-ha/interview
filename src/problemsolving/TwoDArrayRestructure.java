@@ -7,6 +7,6 @@ class TwoDArrayRestructure {
     }
 
     public static void main(String[] args) {
-        find(new int[]{3, 90,95, 100, 105, 110, 115},new int[]{2,1});
+        find(new int[]{3, 90, 95, 100, 105, 110, 115},new int[]{2,3});
     }
 }
