@@ -1,0 +1,11 @@
+
+`
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(¹÷ÿÿÿÿÿ
+h
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+m
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(èóªşıÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ

@@ -1,0 +1,22 @@
+
+t
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(Û°ŽÎýÿÿÿÿ
+t
+java:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔæÈ¿ùÿÿÿÿ
+t
+java:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔæÈ¿ùÿÿÿÿ
+n
+java:S11921"SDefine a constant instead of duplicating this literal "Merged intervals: " 3 times.(µšÁÿþÿÿÿÿ
+7
+java:S1116"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(öçÇ‘
+V	java:S125!"<This block of commented-out lines of code should be removed.(¶ê¬¿øÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(µšÁÿþÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(¸âÉç
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(µšÁÿþÿÿÿÿ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(¸âÉç
+S	java:S106="9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(µšÁÿþÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(¸âÉç
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ

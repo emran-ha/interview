@@ -1,0 +1,9 @@
+
+Q
+java:S1854"5Remove this useless assignment to local variable "j".(İ´ãd8ò†òëŸ0
+L
+java:S1197
+"*Move the array designators [] to the type.(Ôï¤Úøÿÿÿÿ8ô†òëŸ0
+H
+java:S1481"&Remove this unused "j" local variable.(„í¥ ûÿÿÿÿ8õ†òëŸ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÃ§åşÿÿÿÿ8ö†òëŸ0

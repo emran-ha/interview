@@ -35,5 +35,6 @@ class TwoGreatNumber {
     public static void main(String[] args) {
         int[] arr = {4,53,23,4,4,53,444,444,4,4,53};
         getGreatNumber(arr, 3);
+
     }
 }
